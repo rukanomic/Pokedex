@@ -14,6 +14,14 @@ body {
     background-color: #f6f8fc;
 }
 
+button {
+  display: flex;
+  flex-direction: column;
+  margin: .5rem;
+  padding: .8rem 1rem;
+  border-radius: 1rem;
+}
+
 @media screen and (min-width: 992px) {
     .content {
         max-width: 992px;
