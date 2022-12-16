@@ -111,6 +111,10 @@
     justify-content: space-between;
 }
 
+.pokemon:hover {
+    background-color: #d115a8dc;
+}
+
 .pokemon .detail .types {
     padding: 0;
     margin: 0;

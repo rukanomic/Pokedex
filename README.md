@@ -1,4 +1,4 @@
-# Pokedex com Lista de Detalhes
+# Pokedex com Detalhes dos Pokemons
 
 Repositório criado para concluir o desafio de projeto da Pokedex.
 
